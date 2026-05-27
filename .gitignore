@@ -1,0 +1,10 @@
+node_modules/
+.obsidian/workspace
+.obsidian/graph
+.obsidian/cache
+.obsidian/appearance.json
+.obsidian/mru.json
+.trash/
+.DS_Store
+*.swp
+*.tmp
