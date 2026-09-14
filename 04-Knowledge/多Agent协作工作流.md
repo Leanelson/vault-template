@@ -1,7 +1,7 @@
 ---
 type: workflow
 title: 多 Agent 知识同步工作流
-created: {{date:YYYY-MM-DD}}
+created: 2026-09-14
 tags: [🤖-agent, 🔄-sync, 📋-workflow]
 ---
 

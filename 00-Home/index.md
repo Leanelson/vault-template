@@ -1,7 +1,7 @@
 ---
 type: home
 title: 主页
-created: {{date:YYYY-MM-DD}}
+created: 2026-09-14
 tags: [🏠-home]
 ---
 
